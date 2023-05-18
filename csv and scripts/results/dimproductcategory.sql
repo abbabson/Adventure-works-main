@@ -1,0 +1,4 @@
+INSERT INTO dimproductcategory (ProductCategoryKey, ProductCategoryAlternateKey, EnglishProductCategoryName, SpanishProductCategoryName, FrenchProductCategoryName) VALUES ('1', '1', 'Bikes', 'Bicicleta', 'Vélo');
+INSERT INTO dimproductcategory (ProductCategoryKey, ProductCategoryAlternateKey, EnglishProductCategoryName, SpanishProductCategoryName, FrenchProductCategoryName) VALUES ('2', '2', 'Components', 'Componente', 'Composant');
+INSERT INTO dimproductcategory (ProductCategoryKey, ProductCategoryAlternateKey, EnglishProductCategoryName, SpanishProductCategoryName, FrenchProductCategoryName) VALUES ('3', '3', 'Clothing', 'Prenda', 'Vêtements');
+INSERT INTO dimproductcategory (ProductCategoryKey, ProductCategoryAlternateKey, EnglishProductCategoryName, SpanishProductCategoryName, FrenchProductCategoryName) VALUES ('4', '4', 'Accessories', 'Accesorio', 'Accessoire');
