@@ -20,7 +20,7 @@
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/abbabson/Adventure-works/blob/6148e6dbdd38048df6a0061960b8009a0500e76a/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-
+[linkedin-url]: https://linkedin.com/in/abbabson
 
 
 <!-- PROJECT LOGO -->
@@ -61,7 +61,7 @@
   
 ## About The Project 🍪 
 
-![Dashboard](https://github.com/abbabson/Adventure-works/blob/7fed1b5d60e198fa0c0f5fed1b00f2905e0f2481/screenshot.png)
+![Dashboard](https://github.com/JoshuaOlubori/Adventure-works/blob/7fed1b5d60e198fa0c0f5fed1b00f2905e0f2481/screenshot.png)
 
 Tracking Accidents and Casualties across UK Roads in 2021 - 2022
 <a name="requirement"/>
@@ -191,10 +191,7 @@ SUM('awdb fact_sales'[SalesAmount])
   
 ## Contact
 
-Abiodun Babatola - [connect on linkedin](https://www.linkedin.com/in/abbabson) - joshuaolubori@gmail.com
+Abiodun Babatola - [connect on linkedin](https://www.linkedin.com/in/abbabson) - webdeveloperbabson@gmail.com
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
